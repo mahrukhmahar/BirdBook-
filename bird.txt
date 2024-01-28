@@ -1,0 +1,240 @@
+Bird name: Bald Eagle
+Bird Species: Haliaeetus leucocephalus
+Habitat: Lakes, rivers, and coastal areas
+Diet: Fish and small mammals
+Geographic Range: North America
+Physical Characteristics: White head and tail, strong beak
+Behavior: Known for impressive soaring flights
+
+Bird Name: Peregrine Falcon
+Bird Species: Falco peregrinus
+Habitat: Cliffs and urban areas
+Diet: Birds and small mammals
+Geographic Range: Worldwide
+Physical Characteristics: Fastest bird of prey, distinctive markings
+Behavior: Known for high-speed hunting dives
+
+Bird Name: Sparrow
+Bird Species: Passer domesticus
+Habitat: Urban and rural areas
+Diet: Seeds and insects
+Geographic Range: Global
+Physical Characteristics: Small, brown and gray plumage
+Behavior: Sociable and often seen near human settlements
+
+Bird Name: Northern Cardinal
+Bird Species: Cardinalis cardinalis
+Habitat: Woodlands, gardens, and urban areas
+Diet: Seeds, fruits, and insects
+Geographic Range: North America
+Physical Characteristics: Bright red plumage (males), distinctive crest
+Behavior: Singing, territorial, and monogamous
+
+Bird Name: American Robin
+Bird Species: Turdus migratorius
+Habitat: Woodlands and gardens
+Diet: Worms, insects, and fruits
+Geographic Range: North America
+Physical Characteristics: Reddish-orange breast
+Behavior: Known for their cheerful singing
+
+Bird Name:Mallard Duck
+Bird Species: Anas platyrhynchos
+Habitat: Lakes, ponds, and wetlands
+Diet: Aquatic plants, insects, and small fish
+Geographic Range: Worldwide
+Physical Characteristics: Colorful males (drakes), mottled brown females
+Behavior: Dabbling ducks often seen in urban ponds
+
+Bird Name: American Goldfinch
+Bird Species: Spinus tristis
+Habitat: Fields, meadows, and gardens
+Diet: Seeds and small insects
+Geographic Range: North America
+Physical Characteristics: Bright yellow plumage (males)
+Behavior: Seed-eating songbirds
+
+Bird Name: Ruby-throated Hummingbird
+Bird Species: Archilochus colubris
+Habitat: Gardens and forests
+Diet: Nectar and insects
+Geographic Range: Eastern North America
+Physical Characteristics: Iridescent green plumage, red throat patch
+Behavior: Hovering and rapid wing beats
+
+Bird Name: Snowy Owl
+Bird Species: Bubo scandiacus
+Habitat: Arctic tundra and open areas
+Diet: Lemmings and small mammals
+Geographic Range: Arctic regions
+Physical Characteristics: White plumage, large size
+Behavior: Nocturnal hunters
+
+Bird Name: European Starling
+Bird Species: Sturnus vulgaris
+Habitat: Urban and suburban areas
+Diet: Insects and fruits
+Geographic Range: Europe, North America, and beyond
+Physical Characteristics: Glossy black plumage with white speckles
+Behavior: Known for murmurations (large group flights)
+
+Bird Name: Mute Swan
+Bird Species: Cygnus olor
+Habitat: Lakes, ponds, and rivers
+Diet: Aquatic plants and algae
+Geographic Range: Europe, Asia, and North America
+Physical Characteristics: White plumage, orange bill
+Behavior: Graceful swimmers
+
+Bird Name: Barn Owl
+Bird Species: Tyto alba
+Habitat: Grasslands, farmlands, and forests
+Diet: Small mammals
+Geographic Range: Worldwide
+Physical Characteristics: Heart-shaped facial disc
+Behavior: Nocturnal hunters with silent flight
+
+Bird Name: Atlantic Puffin
+Bird Species: Fratercula arctica
+Habitat: Coastal cliffs and islands
+Diet: Fish and small marine invertebrates
+Geographic Range: North Atlantic
+Physical Characteristics: Colorful beaks, black and white plumage
+Behavior: Excellent swimmers and agile fliers
+
+Bird Name: Belted Kingfisher
+Bird Species: Megaceryle alcyon
+Habitat: Rivers, lakes, and ponds
+Diet: Fish and aquatic insects
+Geographic Range: North and Central America
+Physical Characteristics: Blue-gray plumage, prominent crest
+Behavior: Skilled fishermen and divers
+
+Bird Name: American Crow
+Bird Species: Corvus brachyrhynchos
+Habitat: Diverse, urban and rural areas
+Diet: Omnivorous, eats almost anything
+Geographic Range: North America
+Physical Characteristics: All-black plumage
+Behavior: Highly intelligent and adaptable
+
+Bird Name:Osprey
+Bird Species: Pandion haliaetus
+Habitat: Coastal areas, lakes, and rivers
+Diet: Fish
+Geographic Range: Worldwide
+Physical Characteristics: Large raptors, distinctive black eye stripe
+Behavior: Skilled fishers, dive to catch prey
+
+Bird Name: Barred Owl
+Bird Species: Strix varia
+Habitat: Woodlands and forests
+Diet: Small mammals and birds
+Geographic Range: North America
+Physical Characteristics: Brown and white plumage
+Behavior: Nocturnal hunters, known for hooting calls
+
+Bird Name: American Kestrel
+Bird Species: Falco sparverius
+Habitat: Open country, grasslands, and urban areas
+Diet: Insects, small mammals, and birds
+Geographic Range: North and South America
+Physical Characteristics: Small raptors, colorful plumage
+Behavior: Agile hunters with hovering flight
+
+Bird Name: Common Loon
+Bird Species: Gavia immer
+Habitat: Northern lakes and ponds
+Diet: Fish and aquatic invertebrates
+Geographic Range: Northern North America
+Physical Characteristics: Striking black and white plumage
+Behavior: Excellent divers, known for haunting calls
+
+Bird Name: American White Pelican
+Bird Species: Pelecanus erythrorhynchos
+Habitat: Lakes, rivers, and wetlands
+Diet: Fish
+Geographic Range: North America
+Physical Characteristics: Large birds, long bill with pouch
+Behavior: Group fishing in synchronized fashion
+
+Bird Name: Eurasian Magpie
+Bird Species: Pica pica
+Habitat: Woodlands and urban areas
+Diet: Omnivorous, feeds on various foods
+Geographic Range: Europe and Asia
+Physical Characteristics: Black and white plumage
+Behavior: Intelligent and known for collecting shiny objects
+
+Bird Name: Crested Pigeon
+Bird Species: Ocyphaps lophotes
+Habitat: Open country and urban areas
+Diet: Seeds and grains
+Geographic Range: Australia
+Physical Characteristics: Distinctive crested head
+Behavior: Noisy and known for distinctive wing-whistle
+
+Bird Name: European Robin
+Bird Species: Erithacus rubecula
+Habitat: Woodlands, gardens, and urban areas
+Diet: Insects, worms, and fruits
+Geographic Range: Europe and parts of Asia
+Physical Characteristics: Reddish-orange breast
+Behavior: Agile and known for melodious songs
+
+Bird Name: Black-capped Chickadee
+Bird Species: Poecile atricapillus
+Habitat: Forests, gardens, and urban areas
+Diet: Insects, seeds, and berries
+Geographic Range: North America
+Physical Characteristics: Small, black-capped with white cheeks
+Behavior: Active and vocal, known for "chick-a-dee-dee-dee" calls
+
+Bird Name: House Wren
+Bird Species: Troglodytes aedon
+Habitat: Woodlands, shrublands, and urban areas
+Diet: Insects and spiders
+Geographic Range: North and South America
+Physical Characteristics: Small, brown plumage
+Behavior: Energetic and known for their songs
+
+Bird Name: Black-crowned Night Heron
+Bird Species: Nycticorax nycticorax
+Habitat: Wetlands, marshes, and shores
+Diet: Fish, frogs, and aquatic invertebrates
+Geographic Range: Worldwide
+Physical Characteristics: Short legs, black crown
+Behavior: Nocturnal and often seen wading in shallow water
+
+Bird Name: Red-tailed Hawk
+Bird Species: Buteo jamaicensis
+Habitat: Open country, forests, and urban areas
+Diet: Small mammals and birds
+Geographic Range: North and Central America
+Physical Characteristics: Red tail feathers, sharp beak
+Behavior: High-soaring hunters
+
+Bird Name: Common Kingfisher
+Bird Species: Alcedo atthis
+Habitat: Rivers, lakes, and ponds
+Diet: Fish and aquatic insects
+Geographic Range: Europe, Asia, and North Africa
+Physical Characteristics: Bright blue and orange plumage
+Behavior: Skilled divers and known for their colorful appearance
+
+Bird Name: Yellow Warbler
+Bird Species: Setophaga petechia
+Habitat: Woodlands, wetlands, and gardens
+Diet: Insects, caterpillars, and nectar
+Geographic Range: North and South America
+Physical Characteristics: Bright yellow plumage
+Behavior: Songbirds and migratory
+
+
+Bird Name: Parrot
+Bird Species: Psittacus
+Bird Habitat: Parrots are found in various habitats, including tropical rainforests, savannas, and grasslands
+Bird Diet: seeds, fruits, nuts, and sometimes insects
+Bird Geographical Range: South America, Africa, Australia, and Asia
+Bird Physical Characteristics : Colorful plumage, with shades of green, blue, red, and yellow.
+Bird Behaviour: Highly social and known for their ability to mimic human speech and other sounds
